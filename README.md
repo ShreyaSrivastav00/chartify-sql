@@ -44,7 +44,7 @@ Chartify SQL is a Streamlit-based web application that helps users convert natur
 
 ## Link
 
-You can view or deploy the app [here](https://chartify-sql.streamlit.app/).
+You can view the app [here](https://chartify-sql.streamlit.app/).
 
 ## Code Overview
 
