@@ -36,6 +36,16 @@ Chartify SQL is a Streamlit-based web application that helps users convert natur
 3. **Submit**: Click the "Retrieve Data" button to generate the SQL query and view results.
 4. **View Results**: The app displays the SQL query, query results, and visualizations based on the data.
 
+## Screenshot
+
+![App Screenshot](pic2.png)
+
+*Above is a screenshot of the Chartify SQL app.*
+
+## Link
+
+You can view or deploy the app [here](https://chartify-sql.streamlit.app/).
+
 ## Code Overview
 
 - `app.py`: Main application file containing the Streamlit app logic.
